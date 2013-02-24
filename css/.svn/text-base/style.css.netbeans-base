@@ -1,0 +1,19 @@
+/* 
+    Document   : style
+    Created on : 24/02/2013, 11:59:52 AM
+    Author     : Joe
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+html,body{width:100%; height:100%; margin:0; padding:0;}
+
+#mousefield{
+    
+display:block;
+  border:1px solid #000;
+  width:100%;
+  height:100%;
+    
+}
+
